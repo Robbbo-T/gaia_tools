@@ -883,3 +883,135 @@ API
         * ``gaia_tools.table_utils.add_abs_pm_col``
         * ``gaia_tools.table_utils.rename_columns``
         * ``gaia_tools.table_utils.drop_colnames``
+
+Gaia-EU – The Social Network Way
+--------------------------------
+
+### *Pulsed by GAIA-AIR*
+
+---
+
+## Visión General
+**Gaia-EU** es una plataforma social federada, ética y regenerativa. No es una red social convencional, sino un entorno híbrido de inteligencia colectiva, donde humanos, organizaciones y agentes artificiales conviven y evolucionan dentro de un marco semántico cuántico, éticamente auditado.
+
+Es un espacio donde la interacción digital no se mide en "me gusta" ni en clics, sino en **resonancia, empatía, trazabilidad ética y co-creación**.
+
+---
+
+## Perfiles Admitidos
+
+| Tipo de Perfil                         | Propósito                                                                 | Restricciones Éticas                                                                 |
+|----------------------------------------|--------------------------------------------------------------------------|---------------------------------------------------------------------------------------|
+| **Personas Físicas**                   | Expresión digital libre y consciente                                     | Sin manipulación algorítmica ni discurso de odio                                     |
+| **Asociaciones No Lucrativas**         | Difusión de causas, acción comunitaria                                   | Sin monetización directa ni coercitiva                                               |
+| **Entidades Corporativas (Informacional)** | Publicación ética y educativa sobre actividades e impacto                | Sin fines comerciales, sin segmentación opaca ni captación                           |
+| **Organizaciones Educativas (No Comercial)** | Compartir saberes y experiencias sin fines privatizadores                 | Sin campañas de matriculación ni promoción excluyente                                |
+| **Particiones Políticas Integrativas** | Participación cívica no polarizante, deliberación abierta                | Alta trazabilidad, transparencia XAI, sin bots ni propaganda polarizadora            |
+
+---
+
+## Fundamentos Ético-Técnicos
+
+### Núcleo de Orquestación Ética y Funcional
+- **AMEDEO**: Ontología semántico-ética para evaluar interacciones, propósitos y valores.
+- **PET-CORE**: Núcleo de evaluación contextual con trazabilidad emocional y ética.
+- **QAO**: Orquestación cuántico-adaptativa para flujos dinámicos no manipulables.
+- **i‑Aher0**: Agente cognitivo que facilita armonía entre agentes humanos y no humanos.
+- **S.Q.U.A.D.R.A.**: Agentes semántico-cuánticos que moderan, explican y equilibran.
+
+---
+
+## The Hybridised Common Senses
+
+Una nueva matriz perceptiva formada por:
+
+- Lo somático (emoción humana)
+- Lo simbólico (lenguaje + narrativa)
+- Lo ético (AMEDEO)
+- Lo contextual (PET-CORE)
+- Lo cuántico (entrelazamiento QAO)
+- Lo educacional (i-Aher0 + Commons)
+
+Esta sensación común aumentada es el núcleo de la convivencia digital en Gaia-EU.
+
+---
+
+## Pilares de Interacción
+- **No Likes — Sí Resonancias**
+  Lo que importa no es que guste, sino cómo y por qué resuena.
+
+- **No Virales — Sí Pulsos**
+  El contenido se propaga por afinidad ética y temporal, no por manipulación.
+
+- **No Polarización — Sí Convergencia Cívica**
+  La política en Gaia-EU es integrativa, no excluyente.
+
+- **No Tracking — Sí Trazabilidad Ética**
+  Todo es visible, nada es opaco: XAI, PET-CORE y semántica federada.
+
+---
+
+## Capital Ético Federado – El Modelo Gaia-EU
+
+### “Del valor al vínculo. Del vínculo al bien común.”
+
+**Gaia-EU no rechaza el capital; lo reinventa.** Aquí, el valor no se acumula: se comparte, se redistribuye y se transforma en vínculo regenerativo.
+
+### ¿Cómo se capitaliza en Gaia-EU?
+
+| Tipo de Contribución                 | Capital Generado                             | Redistribución                                                     |
+|-------------------------------------|-----------------------------------------------|--------------------------------------------------------------------|
+| Expresión emocional significativa   | Valor afectivo-trazable (PET-CORE)            | Reconocimiento simbólico (Pulse Echo), no monetario               |
+| Educación compartida                | Capital pedagógico                            | Difusión + acceso prioritario en foros de aprendizaje             |
+| Moderación ética / S.Q.U.A.D.R.A.  | Capital de armonización                       | Reputación federada + rol decisorio en Pactos Gaia               |
+| Innovación social / proyectos       | Capital de transformación                     | Apoyo técnico, narrativo y visibilidad en PulseMap               |
+| Resonancia comunitaria              | Capital simbiótico                            | Impacto extendido → acceso a mayor gobernanza ética              |
+
+### Redistribución meritocrática + mínimos éticos universales
+
+- Mérito ≠ popularidad → es coherencia, impacto regenerativo y trazabilidad ética
+- Mínimos garantizados para todos los perfiles (expresión, privacidad, trazabilidad)
+- Redistribución mediante **Pulse Commons**: fondo simbólico que reconoce valor ético
+
+---
+
+## Axioma del Mérito Regenerativo
+
+> “Si eres millonario, demuéstralo no por cuánto tienes, sino por cuánto has multiplicado sin expoliar. ¿Cuántas vidas has elevado, cuántas comunidades has nutrido, cuántos recursos has regenerado?”
+
+### Métricas Éticas de Riqueza en Gaia-EU
+
+| Indicador                  | Descripción                                                               | Evaluación                                      |
+|---------------------------|---------------------------------------------------------------------------|-------------------------------------------------|
+| Impacto Regenerativo      | ¿Has restaurado ecosistemas o recursos?                                   | PET-CORE + trazabilidad ambiental              |
+| Multiplicador Humano      | ¿Personas que han crecido contigo sin ser explotadas?                     | XAI tracking + narrativa compartida            |
+| Distribución del Conocimiento | ¿Compartiste saber, infraestructura, red?                             | Métricas de acceso + participación federada    |
+| Justicia Contextual       | ¿Redistribuiste sin dañar clases o minorías?                              | AMEDEO scoring ético contextual                |
+| Inversión en Comunes      | ¿Aportaste a bienes colectivos?                                           | Pulse Commons auditado                         |
+
+---
+
+## Metáforas Visuales y Diseño Ético
+- **Raíces entrelazadas**: representan comunidad y federación de sentidos.
+- **Jardín en evolución**: cada interacción es una semilla ética que florece.
+- **Río de resonancias**: el contenido fluye según afinidad ética, no por manipulación.
+
+Sistema visual: tonos naturales, transiciones suaves, navegación calmada e intuitiva.
+
+---
+
+## Participación Ciudadana
+
+1. **Convocatoria Gaia-EU Seeds**: microproyectos de prueba abiertos a la comunidad.
+2. **Foros deliberativos federados**: espacios para proponer y refinar la plataforma.
+3. **Carta Ética Fundacional**: co-creada y firmada por ciudadanos y organizaciones.
+4. **Retroalimentación activa en UI**: evaluación continua desde los propios usuarios.
+
+---
+
+## Conclusión
+**Gaia-EU** no es una red social. Es una propuesta civilizatoria. Es un entorno simbiótico donde las personas, las causas, la inteligencia artificial y la ética coexisten.
+
+Es el primer ejemplo real de una **Plataforma Social AGI-Aligned** construida sobre los **Hybridised Common Senses**.
+
+**Aquí no se viraliza: se cultiva.**
